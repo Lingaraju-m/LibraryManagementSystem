@@ -26,7 +26,7 @@ The Library Management System is a Java-based console application designed to de
 ### Steps to Run
 
 1. Clone the Repository:
-   git clone 
+   git clone https://github.com/Lingaraju-m/LibraryManagementSystem.git
 
 2. Navigate to the Project Directory:
     cd LibraryManagementSystem/src
