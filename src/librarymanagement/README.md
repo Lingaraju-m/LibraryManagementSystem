@@ -23,19 +23,6 @@ The Library Management System is a Java-based console application designed to de
 - Install Java Development Kit (JDK) 8 or above.
 - Use a Java IDE such as IntelliJ IDEA, Eclipse, or Visual Studio Code, or use a command-line interface.
 
-### Steps to Run
-
-1. Clone the Repository:
-   git clone https://github.com/Lingaraju-m/LibraryManagementSystem.git
-
-2. Navigate to the Project Directory:
-    cd LibraryManagementSystem/src
-
-3. Compile the Java Files:
-    javac librarymanagement/*.java
-
-4. Run the Application:
-    java librarymanagement.LibrarySystem
 
 
 ### Project Structure :
